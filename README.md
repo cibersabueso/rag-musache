@@ -360,7 +360,7 @@ MIT License - ver archivo `LICENSE` para detalles.
 
 ## 👨‍💻 Información del Desarrollador
 
-**Desarrollado para**: Musache - Desafío Técnico  
+**Desarrollado para**: Musache - Desafío Técnico - por Enrique Garrido
 **Posición**: Especialista en Automatización de Flujos con IA y Backend  
 **Fecha**: Enero 2025  
 **Tiempo de desarrollo**: 4 días  
