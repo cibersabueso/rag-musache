@@ -2,7 +2,7 @@
 
 Sistema de respuesta a preguntas basado en documentos utilizando Retrieval-Augmented Generation (RAG) con Claude API de Anthropic.
 
-**Desarrollado para el Desafío Técnico de Musache - Especialista en Automatización de Flujos con IA y Backend**
+**Desarrollado Enriqu Garrido - Especialista en Automatización de Flujos con IA y Backend**
 
 ## 📋 Descripción del Proyecto
 
@@ -360,7 +360,7 @@ MIT License - ver archivo `LICENSE` para detalles.
 
 ## 👨‍💻 Información del Desarrollador
 
-**Desarrollado para**: Musache - Desafío Técnico - por Enrique Garrido
+**Desarrollado**: por Enrique Garrido
 **Posición**: Especialista en Automatización de Flujos con IA y Backend  
 **Fecha**: Junio 2025  
 **Tiempo de desarrollo**: 4 días  
